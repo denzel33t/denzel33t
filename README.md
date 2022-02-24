@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Denzel
+- 👀 I’m interested in all things science, coding, Chelsea FC and music
+- 🌱 I’m currently learning Javascript and its various libraries such as React.
