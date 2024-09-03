@@ -1,4 +1,4 @@
 - Hi, I’m Denzel. 👋🏾
-- I taught myself Python 🐍 when I was 17 and have since learnt Java, SQL📊, AWS and Docker to name a few 
-- I’m interested in the intricacies of data, the story behind the numbers and simply building things that mould our world, especially scientifically🧬.
-- Recently I have taken an interest to Data Engineering 
+- I'm a Software & Data Engineer 📊
+- I have strong proficiency in Azure Data Factory and Synapse ☁️
+- My main language is Python, but I sometimes use Java / Springboot
