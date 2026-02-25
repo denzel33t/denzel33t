@@ -1,4 +1,1 @@
-- Hi, I’m Denzel. 👋🏾
-- I'm a Software & Data Engineer 📊
-- I have strong proficiency in Azure Data Factory and Synapse ☁️
-- My main language is Python, but I sometimes use Java / Springboot
+- Data Engineer that likes to build things.
